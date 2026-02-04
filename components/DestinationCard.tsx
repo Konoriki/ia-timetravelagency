@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion"
 import Image from "next/image"
-import { useState } from "react"
 
 interface Destination {
   id: number
@@ -15,8 +14,6 @@ interface Destination {
 }
 
 export default function DestinationCard({ destination }: { destination: Destination }) {
-  const [isHovered, setIsHovered] = useState(false)
-
   const cardVariants = {
     hidden: { opacity: 0, y: 20 },
     visible: {
@@ -29,8 +26,6 @@ export default function DestinationCard({ destination }: { destination: Destinat
   return (
     <motion.div
       variants={cardVariants}
-      onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}
       className="relative group h-full"
       data-aos="fade-up"
       data-aos-delay={destination.id * 100}
