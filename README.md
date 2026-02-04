@@ -323,11 +323,13 @@ npm run build
 
 ## 👥 Équipe du Projet
 
-**Noms des membres du groupe:**
-- [ ] Nom Prénom - Rôle
-- [ ] Nom Prénom - Rôle
-- [ ] Nom Prénom - Rôle
-- [ ] Nom Prénom - Rôle
+**Noms des membres du groupe (M1/M2 Digital & IA):**
+1. **Mosleh Nassim** 
+2. **Cat Thomas** 
+3. **Carradot Vincent**
+4. **Jourdan Raphael**
+
+> ⚠️ **IMPORTANT MOODLE:** Chaque membre doit remplir son nom complet ci-dessus avant la soumission
 
 ---
 
@@ -342,11 +344,17 @@ Tous droits réservés
 
 ---
 
-## 📞 Contact & Support
+## 📞 Liens du Projet
 
-- **Email:** [À remplir]
-- **GitHub:** [À remplir]
-- **Netlify/Vercel URL:** [À remplir]
+### 🌐 Déploiement
+
+- **Webapp en ligne (Vercel):** https://ia-timetravelagency.vercel.app
+- **GitHub Repository:** https://github.com/Konoriki/ia-timetravelagency
+
+### ✉️ Contact
+
+- **Email:** [À remplir - contact du groupe]
+- **Tableau Trello:** [Si applicable]
 
 ---
 
